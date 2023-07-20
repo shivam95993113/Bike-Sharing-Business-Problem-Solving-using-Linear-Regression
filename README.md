@@ -1,2 +1,3 @@
 # Bike-Sharing-Business-Problem-Solving-using-Linear-Regression
 This project uses a multiple linear regression model for the prediction of demand for shared bikes in the U.S. This system is a service where bikes are made available for shared use for individuals who can borrow the bike from a “dock” which is usually computer-controlled wherein the users enter the payment information to unlock it. 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.google%2Fproducts%2Fmaps%2Freal-time-bikeshare-information-google-map%2F&psig=AOvVaw2-Rk1M0JJ5_DhthcXxDqY2&ust=1689938235585000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDjmtOUnYADFQAAAAAdAAAAABAR)
